@@ -1,4 +1,11 @@
 .header {
+  position: relative;
+  top: 20px;
+}
+
+.main-logo {
   display: flex;
   justify-content: center;
+  &__img {
+  }
 }

@@ -1,0 +1,15 @@
+.location {
+  top: 60px;
+  &__desc {
+    position: relative;
+    &-title {
+      position: relative;
+      text-transform: uppercase;
+      text-align: center;
+      color: #1e38c9;
+      font-family: "Roboto", Sans-serif;
+      font-weight: 700;
+      font-size: 24px;
+    }
+  }
+}
