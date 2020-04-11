@@ -3,6 +3,13 @@ $tablets: 768px;
 $laptop: 992px;
 $desktop: 1100px;
 
+$red: #ff0000;
+$darkGrey: #2a3340;
+$black: #0a1c2d;
+$grey: #e6e6e6;
+$blue: #0054a5;
+$lightBlue: #66c5e3;
+
 @import './normalize.css';
 @import './misc/media.scss';
 
@@ -43,7 +50,6 @@ h1, h2, h3, h4, h5, h6 {
 .wrapper {
     height: 100%;
     width: 100%;
-    background: linear-gradient(to top, #cedb16 0%, #d67a10 100%);
     &__content {
       position: relative;
       top: 20%;
