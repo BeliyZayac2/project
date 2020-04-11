@@ -6,9 +6,4 @@
 .main-logo {
   display: flex;
   justify-content: center;
-  &__img {
-    border: 5px solid $blue;
-    padding: 10px;
-    border-radius: 25px;
-  }
 }

@@ -64,11 +64,6 @@ h1, h2, h3, h4, h5, h6 {
   display: flex;
   justify-content: center;
 }
-.main-logo__img {
-  border: 5px solid #0054a5;
-  padding: 10px;
-  border-radius: 25px;
-}
 
 .location {
   top: 60px;
