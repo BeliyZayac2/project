@@ -40,6 +40,10 @@
       font-weight: 300;
       margin-top: 10px;
       color: black;
+      width: 150px;
+      @include phones {
+        width: 100px;
+      }
     }
     &:hover {
       .messengers__item-img {
